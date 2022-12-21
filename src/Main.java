@@ -11,6 +11,7 @@ public class Main {
         Fxron.size="4382742km";
         Fxron.temp="-23478274372k";
 
+        FeaturePlanet1
         Planet1 stuart=new Planet1();
         stuart.color="white";
         stuart.size=23423;
